@@ -1,0 +1,1 @@
+this project was made from Video number 6 of the 17 videos Langchain playlist on iNeuron youtube channel.
