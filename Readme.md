@@ -1,1 +1,3 @@
-this project was made from Video number 6 of the 17 videos Langchain playlist on iNeuron youtube channel.
+this project aims at building a simple conversational tool using Langchain and OpenAI that generates Multiple choice questions from a given piece of text.
+
+The web application is made using Streamlit.
